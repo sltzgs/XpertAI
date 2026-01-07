@@ -19,7 +19,7 @@ This repository contains the **supplementary code** for our paper:
 ["XpertAI: Uncovering Regression Model Strategies for Sub-manifolds"](https://link.springer.com/chapter/10.1007/978-3-032-08327-2_19#citeas)  
 
 You’ll find:  
-- A **tutorial notebook** demonstrating the **wine-quality prediction example** from the paper.  
+- A [**tutorial notebook**](./tutorial/XpertAI_tutorial.ipynb)) demonstrating the **wine-quality prediction example** from the paper.  
 - **Helper functions** in [`utils.py`](./tutorial/utils.py) to use for your own model explanations.  
 
 ## Cite
