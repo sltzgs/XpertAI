@@ -26,7 +26,7 @@ You’ll find:
 In case you utilize the published code for your own paper, please cite us accordingly:
 
 ```bibtex
-@incollection{Letzgus2026,
+@incollection{XpertAI2025,
   author       = {Letzgus, S. and Müller, K. R. and Montavon, G.},
   title        = {XpertAI: Uncovering Regression Model Strategies for Sub-manifolds},
   booktitle    = {Explainable Artificial Intelligence. xAI 2025},
